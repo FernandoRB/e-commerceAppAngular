@@ -1,0 +1,38 @@
+/* Fondo global */
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: #0b1120; /* Azul oscuro exacto */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Ajustamos los inputs */
+.form-control {
+  background-color: #111827;
+  color: #fff;
+  border: 1px solid #1f2937;
+  padding: 10px 12px;
+  border-radius: 6px;
+}
+
+.form-control::placeholder {
+  color: #94a3b8;
+}
+
+/* Botón Ingresar */
+.btn-primary {
+  background-color: #2563eb;
+  border: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-primary:hover {
+  background-color: #1e40af;
+}
+
+/* Card del login */
+.card {
+  background-color: #111827;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}

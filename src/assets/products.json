@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Auriculares Bluetooth",
+    "precio": 24990,
+    "stock": 12,
+    "imgUrl": "assets/img/audifonos.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado Mecánico RGB",
+    "precio": 39990,
+    "stock": 8,
+    "imgUrl": "assets/img/teclado.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Mouse Gamer Pro",
+    "precio": 19990,
+    "stock": 15,
+    "imgUrl": "assets/img/mouse.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor Full HD 24''",
+    "precio": 119990,
+    "stock": 5,
+    "imgUrl": "assets/img/monitor.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Silla Ergonómica",
+    "precio": 89990,
+    "stock": 7,
+    "imgUrl": "assets/img/silla.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Notebook Ultrabook 14''",
+    "precio": 549990,
+    "stock": 3,
+    "imgUrl": "assets/img/notebook.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Parlante Portátil",
+    "precio": 29990,
+    "stock": 20,
+    "imgUrl": "assets/img/parlante.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Cámara Web HD",
+    "precio": 15990,
+    "stock": 10,
+    "imgUrl": "assets/img/webcam.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Disco SSD 1TB",
+    "precio": 79990,
+    "stock": 6,
+    "imgUrl": "assets/img/discoduro.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Smartwatch Pro",
+    "precio": 129990,
+    "stock": 9,
+    "imgUrl": "assets/img/smartwatch.png"
+  }
+]
