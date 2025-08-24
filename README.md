@@ -33,5 +33,5 @@ Se implementó un módulo completo para la **gestión de productos** con funcion
 ### 1️⃣ **Clonar el repositorio y abrir servidor local**
 ```bash
 git clone 
-cd nombreDeCarpeta
+cd https://github.com/FernandoRB/e-commerceAppAngular
 ng serve 
