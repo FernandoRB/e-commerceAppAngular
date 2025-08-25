@@ -1,9 +1,5 @@
-# 🛒 Prueba Técnica – Desarrollador Angular 16+
 **Autor:** Fernando Martín Ramos Bologna  
 **Fecha:** 24/08/2025  
-
-Aplicación desarrollada como parte de la **prueba técnica** para evaluar conocimientos en **Angular 16+**, **diseño responsivo**, **consumo de APIs** y **buenas prácticas**.  
-Se implementó un módulo completo para la **gestión de productos** con funcionalidades de **listado, agregado y eliminación** usando una API REST simulada.
 
 ---
 
